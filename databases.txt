@@ -1,0 +1,17 @@
+ Required list of database collection
+
+1.Quizzes Collection:
+
+Each document represents a quiz.
+
+2. Questions Collection:
+
+Each document represents a question.
+
+3.Answers Collection:
+
+Each document represents an answer to a specific question.
+
+4.Results Collection:
+
+Each document represents the result of a user's attempt on a specific quiz.
